@@ -6,6 +6,11 @@
 ## Introduction
 
 ## Topic 1
+### Sample Code
+
+```
+#Enter CODE HERE#
+```
 
 ## Topic 2
 
