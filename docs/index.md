@@ -1,7 +1,7 @@
 # Title
-Name: ABeyer
+**Name**: *ABeyer*
 
-Date: 5/28/2020
+**Date**: *5/28/2020*
 
 ## Introduction
 
@@ -9,4 +9,4 @@ Date: 5/28/2020
 
 ## Topic 2
 
-## Conclusion
+## Summary
