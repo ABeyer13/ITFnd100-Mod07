@@ -86,6 +86,9 @@ f.close()
 
 ```
 
+**Here is the script running on Python**
+![PickleLoad](docs/Pickling.PNG "PickleLoad")
+
 ### Error Handling
 For error handling, I started with a basic example as I did with pickling. I created two variables (A and B) and one function called C(), which when called, would perform the action A/B. 
 I created try except blocks for each variable and function to demonstrate how it works when there is no error, and when there is an error. I created my won custom error messages for each, and then went to show how you can make error messages even more specific by naming them in the except block and assigning the name to a variable. 
