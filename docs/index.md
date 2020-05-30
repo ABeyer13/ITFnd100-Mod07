@@ -132,7 +132,7 @@ except ZeroDivisionError as z:
 **Here is an example of the script running in PyCharm (Figure 2)**
 
 *Figure 2*
-![ErrorH](https://abeyer13.github.io/ITFnd100-Mod07/ErrHan.png "ErrorH")
+![ErrorH](https://abeyer13.github.io/ITFnd100-Mod07/ErrHan.PNG "ErrorH")
 
 
 ### Pickling and Error Handling
