@@ -11,12 +11,14 @@ This week we went over the meaning and use of pickling and error handling in Pyt
 There are two articles I found that were helpful to me in gaining a greater understanding of pickling in Python. The first article is a simple explanation of pickling, but what it helped to clarify for me was the purpose of pickling. I was at first confused why on earth we needed to use pickling if we could use open and close for txt files. But in the initial article, it describes how pickling can help serialize and deserialize an object (like a list) so that it can be used in multiple scripts easily. The second article goes into even greater detail about serialization, which was helpful to me since this was the first time I had heard of the term, and it was not thoroughly reviewed in the Module 07 video. 
 
 https://pythontips.com/2013/08/02/what-is-pickle-in-python/
+
 https://realpython.com/python-pickle-module/
 
 ### Error Handling
 The first article is from the same website as one of the articles I used for pickling. I think this website does an excellent job explaining new concepts and ideas in a way that even beginners can understand. They break down each idea separately and then tie it all together at the end, using lots of great examples. Additionally, I included the resource we’ve used in class (w3schools) because it was helpful for me to get basic practice after reading through everything, watching all the videos, and having not yet actually coded except for the one Lab assignment.
 
 https://realpython.com/python-exceptions/
+
 https://www.w3schools.com/python/python_try_except.asp
 
 ## Topic 2: Creating My Script
