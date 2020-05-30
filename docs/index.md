@@ -90,7 +90,7 @@ f.close()
 
 *Figure 1*
 
-![PickleLoad](https://raw.githubusercontent.com/ABeyer13/ITFnd100-Mod07/PickleLoad.PNG "PickleLoad")
+![PickleLoad](https://abeyer13.github.io/ITFnd100-Mod07/PickleLoad.PNG "PickleLoad")
 
 ### Error Handling
 For error handling, I started with a basic example as I did with pickling. I created two variables (A and B) and one function called C(), which when called, would perform the action A/B. 
@@ -132,7 +132,7 @@ except ZeroDivisionError as z:
 **Here is an example of the script running in PyCharm (Figure 2)**
 
 *Figure 2*
-![ErrorH](/docs/ErrHan.PNG "ErrorH")
+![ErrorH](https://abeyer13.github.io/ITFnd100-Mod07/ErrHan.png "ErrorH")
 
 
 ### Pickling and Error Handling
@@ -226,16 +226,16 @@ input("Press [enter] to exit:")
 
 **Figure 3**
 
-![PDemo](/docs/PandEDemo.PNG "PDemo")
+![PDemo](https://abeyer13.github.io/ITFnd100-Mod07/PandEDemo.PNG "PDemo")
 
 **Figure 4**
 
-![CMD](/docs/CMDP.PNG "CMD")
+![CMD](https://abeyer13.github.io/ITFnd100-Mod07/CMDP.PNG "CMD")
 
 
 **Figure 5**
 
-![DAT](/docs/PandEDAT.PNG "DAT")
+![DAT](https://abeyer13.github.io/ITFnd100-Mod07/PandEDAT.PNG "DAT")
 
 ## Conclusion
 In summary, I was able to create a basic example of pickling, error handling, and the two working together using the Module 07 lecture, the textbook chapter, and the outside resources I discovered on the internet. 
