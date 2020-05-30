@@ -9,17 +9,19 @@ This week we went over the meaning and use of pickling and error handling in Pyt
 ## Topic 1: Research
 ### Pickling
 There are two articles I found that were helpful to me in gaining a greater understanding of pickling in Python. The first article is a simple explanation of pickling, but what it helped to clarify for me was the purpose of pickling. I was at first confused why on earth we needed to use pickling if we could use open and close for txt files. But in the initial article, it describes how pickling can help serialize and deserialize an object (like a list) so that it can be used in multiple scripts easily. The second article goes into even greater detail about serialization, which was helpful to me since this was the first time I had heard of the term, and it was not thoroughly reviewed in the Module 07 video. 
+
 https://pythontips.com/2013/08/02/what-is-pickle-in-python/
 https://realpython.com/python-pickle-module/
 
 ### Error Handling
-The first article is from the same website as one of the articles I used for pickling. I think this website does an excellent job explaining new concepts and ideas in a way that even beginners can understand. They break down each idea separately and then tie it all together at the end, using lots of great examples. Additionally, I included the resource we’ve used in class (w3schools) because it was helpful for me to get basic practice after reading through everything, watching all the videos, and having not yet actually coded except for the one Lab assignment. 
+The first article is from the same website as one of the articles I used for pickling. I think this website does an excellent job explaining new concepts and ideas in a way that even beginners can understand. They break down each idea separately and then tie it all together at the end, using lots of great examples. Additionally, I included the resource we’ve used in class (w3schools) because it was helpful for me to get basic practice after reading through everything, watching all the videos, and having not yet actually coded except for the one Lab assignment.
+
 https://realpython.com/python-exceptions/
 https://www.w3schools.com/python/python_try_except.asp
 
 ## Topic 2: Creating My Script
 
-# Pickling Example
+### Pickling Example
 For pickling, I decided to use a basic example to showcase how you can store complex data (lists) into a binary file (FavoritesPickles.dat). The first step was to create 3 different lists and the new binary file. Afterwards, using the function dump(), I loaded each list into the new file. Lastly, I opened the files and used the pickle function load() to load each individual list. From there I could print the lists to the user a number of different ways (simply printing, using a for loop, and by unpacking it.
 
 ```
@@ -227,6 +229,3 @@ In summary, I was able to create a basic example of pickling, error handling, an
   #![alt text](link.png "alt text")
 ```
 
-## Topic 2
-
-## Summary
