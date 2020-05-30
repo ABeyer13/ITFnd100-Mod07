@@ -125,6 +125,12 @@ except ZeroDivisionError as z:
     print(type(z))
     
 ```
+
+**Here is an example of the script running in PyCharm**
+
+[Error](/docs/ErrHan.PNG "Error")
+
+
 ### Pickling and Error Handling
 I created  a simple program where the user would create two lists. The first list would be a list of their favorite movie, book, and tv show. The second list they created would be their answers to two questions. These lists would then be pickle dumped into a file name that they created and would always be assigned with .dat, and then loaded so they could view their answers. 
 I created try except blocks for each question and for the file naming portions. See Figure 6-1, 6-2, 6-3, and 6-4 for images of the program running in PyCharm, the command prompt, and in the .dat file. 
