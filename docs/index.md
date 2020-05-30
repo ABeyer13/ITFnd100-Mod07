@@ -86,7 +86,9 @@ f.close()
 
 ```
 
-**Here is the script running on Python**
+**Here is the script running on PythonCharm (Figure 1)**
+
+*Figure 1*
 ![PickleLoad](/docs/PickleLoad.PNG "PickleLoad")
 
 ### Error Handling
@@ -126,8 +128,9 @@ except ZeroDivisionError as z:
     
 ```
 
-**Here is an example of the script running in PyCharm**
+**Here is an example of the script running in PyCharm (Figure 2)**
 
+*Figure 2*
 [ErrorH](/docs/ErrHan.PNG "ErrorH")
 
 
@@ -218,13 +221,13 @@ nf.close()
 input("Press [enter] to exit:")
 
 ```
-*Here are more examples of the program running in PyCharm (Figure 1), the command prompt (Figure 2), and saving into a binary file (Figure 3)
-
-**Figure 1**
-
-**Figure 2**
+*Here are more examples of the program running in PyCharm (Figure 3), the command prompt (Figure 4), and saving into a binary file (Figure 5)
 
 **Figure 3**
+
+**Figure 4**
+
+**Figure 5**
 
 ## Conclusion
 In summary, I was able to create a basic example of pickling, error handling, and the two working together using the Module 07 lecture, the textbook chapter, and the outside resources I discovered on the internet. 
