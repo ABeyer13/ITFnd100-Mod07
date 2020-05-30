@@ -128,7 +128,7 @@ except ZeroDivisionError as z:
 
 **Here is an example of the script running in PyCharm**
 
-[Error](/docs/ErrHan.PNG "Error")
+[ErrorH](/docs/ErrHan.PNG "ErrorH)
 
 
 ### Pickling and Error Handling
