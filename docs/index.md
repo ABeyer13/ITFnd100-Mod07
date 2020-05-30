@@ -227,8 +227,7 @@ input("Press [enter] to exit:")
 [PDemo](/docs/PandEDemo.PNG "PDemo")
 
 **Figure 4**
-
-(/docs/CMDP.PNG "CMD")
+[CMD](/docs/CMDP.PNG "CMD")
 
 
 **Figure 5**
