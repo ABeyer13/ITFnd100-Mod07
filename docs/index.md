@@ -224,13 +224,17 @@ input("Press [enter] to exit:")
 *Here are more examples of the program running in PyCharm (Figure 3), the command prompt (Figure 4), and saving into a binary file (Figure 5)
 
 **Figure 3**
+
 [PDemo](/docs/PandEDemo.PNG "PDemo")
 
 **Figure 4**
+
 [CMD](/docs/CMDP.PNG "CMD")
 
 
 **Figure 5**
+
+[DAT](/docs/PandEDAT.PNG "DAT")
 
 ## Conclusion
 In summary, I was able to create a basic example of pickling, error handling, and the two working together using the Module 07 lecture, the textbook chapter, and the outside resources I discovered on the internet. 
