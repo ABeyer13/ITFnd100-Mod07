@@ -87,7 +87,7 @@ f.close()
 ```
 
 **Here is the script running on Python**
-![PickleLoad](docs/Pickling.PNG "PickleLoad")
+![PickleLoad](/docs/Pickling.PNG "PickleLoad")
 
 ### Error Handling
 For error handling, I started with a basic example as I did with pickling. I created two variables (A and B) and one function called C(), which when called, would perform the action A/B. 
