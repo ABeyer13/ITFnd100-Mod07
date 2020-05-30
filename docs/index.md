@@ -228,6 +228,9 @@ input("Press [enter] to exit:")
 
 **Figure 4**
 
+(/docs/CMDP.PNG "CMD")
+
+
 **Figure 5**
 
 ## Conclusion
