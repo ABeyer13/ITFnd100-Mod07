@@ -89,7 +89,8 @@ f.close()
 **Here is the script running on PythonCharm (Figure 1)**
 
 *Figure 1*
-![PickleLoad](/docs/PickleLoad.PNG "PickleLoad")
+
+![PickleLoad](/https://raw.githubusercontent.com/ABeyer13/ITFnd100-Mod07/master/docs/PickleLoad.PNG "PickleLoad")
 
 ### Error Handling
 For error handling, I started with a basic example as I did with pickling. I created two variables (A and B) and one function called C(), which when called, would perform the action A/B. 
