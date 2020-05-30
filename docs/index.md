@@ -132,7 +132,7 @@ except ZeroDivisionError as z:
 **Here is an example of the script running in PyCharm (Figure 2)**
 
 *Figure 2*
-[ErrorH](/docs/ErrHan.PNG "ErrorH")
+![ErrorH](/docs/ErrHan.PNG "ErrorH")
 
 
 ### Pickling and Error Handling
@@ -226,28 +226,17 @@ input("Press [enter] to exit:")
 
 **Figure 3**
 
-[PDemo](/docs/PandEDemo.PNG "PDemo")
+![PDemo](/docs/PandEDemo.PNG "PDemo")
 
 **Figure 4**
 
-[CMD](/docs/CMDP.PNG "CMD")
+![CMD](/docs/CMDP.PNG "CMD")
 
 
 **Figure 5**
 
-[DAT](/docs/PandEDAT.PNG "DAT")
+![DAT](/docs/PandEDAT.PNG "DAT")
 
 ## Conclusion
 In summary, I was able to create a basic example of pickling, error handling, and the two working together using the Module 07 lecture, the textbook chapter, and the outside resources I discovered on the internet. 
-
-```
-#Save image to hardrive#
-#Upload to docs folder#
-#Copy the path address#
-#put a [alt text](/copied path "alt text')
-#Make sure there isn't a space in the name (%)
-#or if it's not in your docs:#
-  #1:26 video for more help#
-  #![alt text](link.png "alt text")
-```
 
