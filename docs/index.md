@@ -224,6 +224,7 @@ input("Press [enter] to exit:")
 *Here are more examples of the program running in PyCharm (Figure 3), the command prompt (Figure 4), and saving into a binary file (Figure 5)
 
 **Figure 3**
+[PDemo](/docs/PandEDemo.PNG "PDemo")
 
 **Figure 4**
 
